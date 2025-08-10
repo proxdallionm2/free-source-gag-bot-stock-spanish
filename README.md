@@ -1,1 +1,1 @@
-# free-source-gag-bot-stock-spanish
+Its not obfuscated.  you can use it as long as you dont change code.
